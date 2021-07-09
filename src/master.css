@@ -1,0 +1,12 @@
+body {
+    background-color:blueviolet;
+    color: white;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    border: 2px solid red;
+    border-radius: 12px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px red;
+}
